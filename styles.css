@@ -2,8 +2,8 @@
   --bg-color: #090000;
   --font-color: #FFFBF1;
   --link-color: red;
-  --text-color-1: rgba(0, 179, 119, 1);
-  --text-color-2: rgba(214, 255, 127, 1);
+  --text-color-1: rgba(255, 215, 0, 1);
+  --text-color-2: rgba(255, 253, 208, 1);
   --headline-color: white;
 }
 html {
@@ -165,7 +165,7 @@ main hr {
 
 .quote-container {
   padding: 16px;
-  background-color: #838596;
+  background-color: #FFFBF1;
   opacity: 0;
   border-radius: 3px;
   filter: drop-shadow(0 0 0 rgba(54, 54, 54, 0.2));
